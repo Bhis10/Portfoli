@@ -34,10 +34,12 @@ html{
   background-color: #3a39398c;
 	box-shadow: none;
 
+
 }
-.navbar li :hover{
+.navbar li a:hover{
 	cursor: pointer;
-	color: white;
+	color: black;
+	background: none;
 }
 .sidenav{
 	background-color: #3a39398c !important;
