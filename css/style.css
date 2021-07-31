@@ -68,13 +68,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 
-@media screen and (min-width:1025px){
-	.hero-container {
-		position: absolute;
-		top:40%;
-	  left:8%;
 
-	}}
 /* end-navbarSection*/
 #skills{
 	margin-bottom: 200px;
@@ -334,3 +328,12 @@ width: inherit;
 	margin-right: 3rem;
 }
 /* end-footerSection */
+
+
+@media screen and (min-width:1025px){
+	.hero-container {
+		position: absolute;
+		top:40%;
+	  left:8%;
+
+	}}
